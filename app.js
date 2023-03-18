@@ -1,8 +1,3 @@
-var x = 20;
-{
-    var x = 100;
-    let y = 15;
-    console.log(y);
-}
-console.log(x);
-console.log(y);
+let n = prompt("name")
+console.log(n);
+console.log(typeof n);
